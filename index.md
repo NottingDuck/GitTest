@@ -1,11 +1,9 @@
-# Zhenya's Family secret recipes
+# Family secret recipes
 
 Set of recipes as given by my grandma
 
 - Pizzas (TODO)
-- Sauses (TODO)
-- reds (TODO)
-
-
+- Sauces (TODO)
+- Spreds (TODO)
 
 
