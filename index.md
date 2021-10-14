@@ -6,6 +6,6 @@ Set of recipes as given by my grandma
 - Sauses (TODO)
 - reds (TODO)
 
-- jam
+
 
 
